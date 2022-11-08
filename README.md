@@ -6,7 +6,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Módulo Fundamentos :white_check_mark:
 
 ##### Seção 1: Introdução - Unix & Shell
 
@@ -41,104 +41,100 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] Dia 2: _JavaScript - Trabalhando com elementos_
 - [ ] Dia 3: _JavaScript - Eventos_
 - [ ] Dia 4: _JavaScript - Web Storage_
-- [ ] Dia 5: _[Projeto - Meme Generator]()_
-- [ ] Dia 6: _[Projeto - Arte com Pixels]()_
-- [ ] Dia 7: _[Projeto - Lista de tarefas]()_
-- [ ] Dia 7: _[Projeto - Adivinhe a Cor]()_
-- [ ] Dia 7: _[Projeto - Carta Misteriosa]()_
+- [ ] Dia 5: _[Projeto - Arte com Pixels]()_
+- [ ] Dia 6: _Projetos Bonus_ 
+            _[Projeto - Meme Generator]()_
+            _[Projeto - Lista de tarefas]()_
+            _[Projeto - Adivinhe a Cor]()_
+            _[Projeto - Carta Misteriosa]()_
 
-##### Seção 6: HTML & CSS avançado
+##### Seção 6: HTML & CSS: Forms, Flexbox e Responsivo
 
-- [ ] 6-1: _HTML & CSS - Forms_
-- [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
+- [ ] Dia 1: _HTML & CSS - Forms_
+- [ ] Dia 2: _Bibliotecas JavaScript e Frameworks CSS_
+- [ ] Dia 3: _CSS Flexbox - Parte 1_
+- [ ] Dia 4: _CSS Flexbox - Parte 2_
+- [ ] Dia 5: _CSS Responsivo - Mobile First_
+- [ ] Dia 6: _[Projeto - Trybewarts]()_
 
-##### Seção 7: JavaScript ES6 & Testes Unitários
+##### Seção 7: Introdução a JavaScript ES6 & Testes Unitários
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _Testes unitários em JavaScript_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [ ] Dia 1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [ ] Dia 2: _JavaScript ES6 - Fluxos de Exceção de Objetos_
+- [ ] Dia 3: _Primeiros passsos em Jest_
+- [ ] Dia 4: _[Projeto - JavaScript Testes Unitários]()_
 
-##### Seção 8: JavaScript ES6
+##### Seção 8: Higher Order Functions do JavaScript ES6
 
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+- [ ] Dia 1: _JavaScript ES6 - Introdução Higher Order Functions_
+- [ ] Dia 2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [ ] Dia 3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [ ] Dia 4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [ ] Dia 5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [ ] Dia 6: _[Projeto - Zoo functions]()_
 
-##### Seção 9: Assincronicidade & Callbacks
+## Módulo Front-end :hourglass_flowing_sand:
 
-- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
+##### Seção 1: Introdução ao Front-end e JavaScript Assíncrono
 
-##### Seção 10: Jest
+- [ ] Dia 1: _Ambiente de Desenvolvimento_
+- [ ] Dia 2: _JJavaScript Assíncrono - Promises e fetch_
+- [ ] Dia 3: _Prática - Casa de cânbio_
+- [ ] Dia 4: _Async, await e testes assíncronos_
+- [ ] Dia 5: _[Projeto - Carrinho de Compras]()_
 
-- [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Testes Assíncronos_
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+##### Seção 2: Introdução ao React
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+- [ ] Dia 1: _'Hello, world!' no React!_
+- [ ] Dia 2: _Componentes React_
+- [ ] Dia 3: _[Projeto - Solar System]()_
 
-##### Seção 11: Introdução - React
+##### Seção 3: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+- [ ] Dia 1: _Componentes com Estado e eventos_
+- [ ] Dia 2: _Formulários no React_
+- [ ] Dia 4: _[Projeto - Tryunfo]()_
 
-##### Seção 12: React
+##### Seção 4: Ciclo de vida de componentes
 
-- [ ] 12-1: _Components com estado_
-- [ ] 12-2: _Eventos e formulários no React_
-- [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [ ] Dia 1: _Ciclo de vida de componentes_
+- [ ] Dia 2: _React Router_
+- [ ] Dia 3: _[Projeto - TrybeTunes]()_
 
-##### Seção 13: React
+##### Seção 5: Metodologias Ágeis
 
-- [ ] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
-- [ ] 13-2: _Ciclo de vida de componentes em React_
-- [ ] 13-3: _React Router_
-- [ ] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [ ] Dia 1: _Metodologias Ágeis_
+- [ ] Dia 2: _[Projeto - Frontend Online Store]()_
 
-##### Seção 14: Metodologias Ágeis
+##### Seção 6: Testes automatizados com React Testing Library
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+- [ ] Dia 1: _RTL - Primeiros passos_
+- [ ] Dia 2: _Mocks e Inputs_
+- [ ] Dia 3: _Testando React Router_
+- [ ] Dia 4: _[Projeto - Testes em React]()_
 
-##### Seção 15: Testes em React
+##### Seção 7: Gerenciamento de estado com  Redux
 
-- [ ] 15-1: _Testando React com a React Testing Library_
-- [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [ ] 15-3: _[Projeto - Testes em React]()_
+- [ ] Dia 1: _Introdução ao Redux - O estado global da aplicação_
+- [ ] Dia 2: _Usando Redux no React_
+- [ ] Dia 3: _Usando Redux no React - Prática_
+- [ ] Dia 4: _Usando Redux no React - Actions Assíncronas_
+- [ ] Dia 5: _Testes em React-Redux_
+- [ ] Dia 6: _[Projeto - Trybe Wallet]()_
 
-##### Seção 16: Introdução ao Redux
+##### Seção 8: Projeto Jogo de Trivia
 
-- [ ] 16-1: _Introdução ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - Prática_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes síncronos com React-Redux_
-- [ ] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [ ] Dia 1: _[Projeto - Jogo de Trivia]()_
 
-##### Seção 17: Projeto React
+##### Seção 9: Context API e React Hooks
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+- [ ] Dia 1: _Context API do React_
+- [ ] Dia 2: _React Hooks - useState e useContext_
+- [ ] Dia 3: _React Hooks - useEffect e Hooks customizados_
+- [ ] Dia 4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
-##### Seção 18: React & Context API
-
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
-
-##### Seção 19: Projeto Final de Front-end
-
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+##### Seção 10: Projeto App de REceitas
+- [ ] Dia 1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
